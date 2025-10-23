@@ -1,0 +1,5 @@
+{
+  "name": "Excel Analysis Platform",
+  "description": "An intelligent platform to analyze Excel and CSV files, generating summaries, key insights, and visualizations using AI.",
+  "requestFramePermissions": []
+}
